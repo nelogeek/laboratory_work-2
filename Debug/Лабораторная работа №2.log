@@ -1,0 +1,25 @@
+﻿  Лабораторная работа №2.cpp
+C:\Users\lokot\Desktop\Лабораторная работа №2\Header.h(15,15): warning C4244: аргумент: преобразование "time_t" в "unsigned int", возможна потеря данных
+C:\Users\lokot\Desktop\Лабораторная работа №2\Header.h(21,23): warning C4018: <: несоответствие типов со знаком и без знака
+C:\Users\lokot\Desktop\Лабораторная работа №2\Header.h(30,23): warning C4018: <: несоответствие типов со знаком и без знака
+C:\Users\lokot\Desktop\Лабораторная работа №2\Header.h(31,27): warning C4018: <: несоответствие типов со знаком и без знака
+C:\Users\lokot\Desktop\Лабораторная работа №2\Header.h(37,23): warning C4018: <: несоответствие типов со знаком и без знака
+C:\Users\lokot\Desktop\Лабораторная работа №2\Header.h(38,27): warning C4018: <: несоответствие типов со знаком и без знака
+C:\Users\lokot\Desktop\Лабораторная работа №2\Header.h(48,23): warning C4018: <: несоответствие типов со знаком и без знака
+C:\Users\lokot\Desktop\Лабораторная работа №2\Header.h(51,23): warning C4018: <: несоответствие типов со знаком и без знака
+C:\Users\lokot\Desktop\Лабораторная работа №2\Header.h(52,27): warning C4018: <: несоответствие типов со знаком и без знака
+C:\Users\lokot\Desktop\Лабораторная работа №2\Header.h(377,23): warning C4018: <: несоответствие типов со знаком и без знака
+C:\Users\lokot\Desktop\Лабораторная работа №2\Лабораторная работа №2.cpp(19): message : выполняется компиляция ссылки на экземпляр шаблон функции "int nullInRows<int>(T **,size_t,size_t)"
+          with
+          [
+              T=int
+          ]
+C:\Users\lokot\Desktop\Лабораторная работа №2\Header.h(378,27): warning C4018: <: несоответствие типов со знаком и без знака
+C:\Users\lokot\Desktop\Лабораторная работа №2\Header.h(393,23): warning C4018: <: несоответствие типов со знаком и без знака
+C:\Users\lokot\Desktop\Лабораторная работа №2\Лабораторная работа №2.cpp(20): message : выполняется компиляция ссылки на экземпляр шаблон функции "void longRepeat<int>(T **,size_t,size_t)"
+          with
+          [
+              T=int
+          ]
+C:\Users\lokot\Desktop\Лабораторная работа №2\Header.h(396,27): warning C4018: <: несоответствие типов со знаком и без знака
+  Лабораторная работа №2.vcxproj -> C:\Users\lokot\Desktop\Лабораторная работа №2\Debug\Лабораторная работа №2.exe
